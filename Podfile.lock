@@ -1,0 +1,22 @@
+PODS:
+  - DyOpenSSL (0.0.1)
+
+DEPENDENCIES:
+  - DyOpenSSL (from `https://github.com/6david9/DyOpenSSL.git`, commit `5af5d6b1a764939f3a31fd240b2a849403b3900e`)
+
+EXTERNAL SOURCES:
+  DyOpenSSL:
+    :commit: 5af5d6b1a764939f3a31fd240b2a849403b3900e
+    :git: https://github.com/6david9/DyOpenSSL.git
+
+CHECKOUT OPTIONS:
+  DyOpenSSL:
+    :commit: 5af5d6b1a764939f3a31fd240b2a849403b3900e
+    :git: https://github.com/6david9/DyOpenSSL.git
+
+SPEC CHECKSUMS:
+  DyOpenSSL: db1dfc720bd50a3f35d15411914f9daec2a6aac9
+
+PODFILE CHECKSUM: a3cadc43dd4f1352e5a6bbf2e1a3a9f0e66036c3
+
+COCOAPODS: 1.1.1
